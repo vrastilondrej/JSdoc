@@ -7,8 +7,11 @@
 * [code](https://github.com/vrastilondrej/Knowledge-base/tree/master/Udemy%20GDCS%20Front-End%20Web%20Dev/Project_Pixel-Art-Maker)
 ## Topics:
 **HTML**
+
 **CSS**
+
 **JavaScript**
+
   *  Data Types
   *  Struings
   *  Booleans
@@ -31,6 +34,8 @@
   * Objects
       * Methods
       * bracket notation, dot notation
+
+
 **jQuery**
   * Selectors
   * Traversing and filtering
