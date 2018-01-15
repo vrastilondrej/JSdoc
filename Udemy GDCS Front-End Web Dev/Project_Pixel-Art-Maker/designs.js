@@ -36,4 +36,7 @@ $("#sizePicker").submit(function makeGrid(evt) {
     $("td").on("click", function() {
         $(this).css("background-color", selectedColor);
     });
+    $("td").on("dblclick", function() {
+        $(this).css("background-color", "");
+    });
 });
