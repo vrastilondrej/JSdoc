@@ -7,32 +7,32 @@ var pixelCanvas //grid table
 colorPicker = $("#colorPicker");
 pixelCanvas = $("#pixel_canvas");
 
-//If the input value change, then refresh variables value
+//if the input value change, then refresh variables value
 $("input").on("change", function() {
     selectedColor = colorPicker.val();
     gridHeight = $("#input_height").val();
     gridWidth = $("#input_width").val();
 });
 
-// When size is submitted by the user, call makeGrid()
-
-
+// when size is submitted by the user, call makeGrid()
 $("#sizePicker").submit(function makeGrid(evt) {
 
-    //Do stuff here
-
+    //prevent refresh page
     evt.preventDefault();
+    //delete previous table (if any)
     $("tr").remove();
+    //create gridHeiht rows
     for (let i = 0; i < gridHeight; i++) {
         pixelCanvas.append("<tr><td></td></tr>");
     }
-
+    //add gridWidth columns
     $("tr").each(function() {
         for (let j = 1; j < gridWidth; j++) {
             $(this).append("<td></td>");
             console.log("posilam form" + j);
         };
     });
+    //add color on click
     $("td").on("click", function() {
         $(this).css("background-color", selectedColor);
     });
