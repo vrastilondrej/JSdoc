@@ -68,14 +68,14 @@
     * [x] Mad Libs (2-11)
     * [x] One Awesome Message (2-12)
 * [ ] Conditionals
-    * [ ] Flowcharts
-    * [ ] Else If Statements
-    * [ ] Even or Odd (3-2)
-    * [ ] Musical Groups (3-3)
-    * [ ] Murder Mystery (3-4)
-    * [ ] Logical Operators
-    * [ ] Checking your Balance (3-5)
-    * [ ] Ice Cream (3-6)
+    * [x] Flowcharts
+    * [x] Else If Statements
+    * [x] Even or Odd (3-2)
+    * [x] Musical Groups (3-3)
+    * [x] Murder Mystery (3-4)
+    * [x] Logical Operators
+    * [x] Checking your Balance (3-5)
+    * [x] Ice Cream (3-6)
     * [ ] What do I Wear? (3-7)
     * [ ] Truthy and Falsy
     * [ ] Ternay Operator
