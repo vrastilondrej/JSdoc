@@ -1,9 +1,9 @@
 // Select color input
 var colorPicker; //colorPicker slector
-var selectedColor; // choosen color value
+var selectedColor = "#000000"; // choosen color value
 var gridHeight = 1; //grid height value
 var gridWidth = 1; //grid width value
-var pixelCanvas //grid table
+var pixelCanvas; //grid table
 colorPicker = $("#colorPicker");
 pixelCanvas = $("#pixel_canvas");
 
@@ -16,7 +16,6 @@ $("input").on("change", function() {
 
 // when size is submitted by the user, call makeGrid()
 $("#sizePicker").submit(function makeGrid(evt) {
-
     //prevent refresh page
     evt.preventDefault();
     //delete previous table (if any)
@@ -30,13 +29,14 @@ $("#sizePicker").submit(function makeGrid(evt) {
         for (let j = 1; j < gridWidth; j++) {
             $(this).append("<td></td>");
             console.log("posilam form" + j);
-        };
+        }
     });
-    //add color on click
-    $("td").on("click", function() {
-        $(this).css("background-color", selectedColor);
-    });
-    $("td").on("dblclick", function() {
-        $(this).css("background-color", "");
-    });
+});
+//add color on click
+$("table").on("click", "tr td", function() {
+    $(this).css("background-color", selectedColor);
+});
+//remove color on doubleclick
+$("table").on("dblclick", "tr td", function() {
+    $(this).css("background-color", "");
 });
