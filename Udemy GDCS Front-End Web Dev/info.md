@@ -6,10 +6,9 @@
 
 
 ## Projects:
-#### PixelArt maker
-* [preview](https://htmlpreview.github.io/?https://github.com/vrastilondrej/Knowledge-base/blob/master/Udemy%20GDCS%20Front-End%20Web%20Dev/Project_Pixel-Art-Maker/index.html)
-
-* [code](https://github.com/vrastilondrej/Knowledge-base/tree/master/Udemy%20GDCS%20Front-End%20Web%20Dev/Project_Pixel-Art-Maker)
+| name | code | preview |
+| ---- | ---- | ------- |
+|PixelArt maker  |[link](https://github.com/vrastilondrej/Knowledge-base/tree/master/Udemy%20GDCS%20Front-End%20Web%20Dev/Project_Pixel-Art-Maker)  | [link](https://htmlpreview.github.io/?https://github.com/vrastilondrej/Knowledge-base/blob/master/Udemy%20GDCS%20Front-End%20Web%20Dev/Project_Pixel-Art-Maker/index.html) |
 ## Topics:
 **HTML**
 
