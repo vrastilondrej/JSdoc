@@ -28,7 +28,7 @@
     * [x] Using Dev Tools
     * [x] Units in CSS
     * [x] Identifying Colors
-* [ ] Syntax Problem Set
+* [x] Syntax Problem Set
     * [x] Style an Image
     * [x] Style the Font
     * [x] Writing Selectors
@@ -46,7 +46,7 @@
 
 * [x] What is JavaScript?
     * [x] JS Demo
-* [ ] Data Types & Variables
+* [x] Data Types & Variables
     * [x] Numbers
     * [x] First Expression (2-1)
     * [x] String Concatenation
@@ -67,7 +67,7 @@
     * [x] Out to Dinner (2-10)
     * [x] Mad Libs (2-11)
     * [x] One Awesome Message (2-12)
-* [ ] Conditionals
+* [x] Conditionals
     * [x] Flowcharts
     * [x] Else If Statements
     * [x] Even or Odd (3-2)
@@ -83,7 +83,7 @@
     * [x] Switch Statement
     * [x] Falling-through
     * [x] Back to School (3-9)
-* [ ] Loops
+* [x] Loops
     * [x] Parts of a While Loop
     * [x] JuliaJames (4-1)
     * [x] 99 Bottles of Juice (4-2)
@@ -157,4 +157,4 @@
     * [x] jQuery Event Listener Order
     * [x] jQuery Event Listener
     * [x] Convenience Methods
-* [ ] _Project: Pixel Art Maker_
+* [x] _Project: Pixel Art Maker_
