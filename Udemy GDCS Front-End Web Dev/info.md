@@ -1,11 +1,16 @@
 # Udacity FEWD Challenge
-## Webpage: [link](https://blog.udacity.com/2017/09/announcing-60000-challenge-scholarships-udacity-google.html)
-## Projects:
-### PixelArt maker
+### Links: 
+* [Course webpage](https://blog.udacity.com/2017/09/announcing-60000-challenge-scholarships-udacity-google.html)
+* [Notes](https://github.com/vrastilondrej/Knowledge-base/wiki)
+* [Some completed tasks](https://github.com/vrastilondrej/Knowledge-base/wiki/%C3%9Alohy)
+
+
+### Projects:
+#### PixelArt maker
 * [preview](https://htmlpreview.github.io/?https://github.com/vrastilondrej/Knowledge-base/blob/master/Udemy%20GDCS%20Front-End%20Web%20Dev/Project_Pixel-Art-Maker/index.html)
 
 * [code](https://github.com/vrastilondrej/Knowledge-base/tree/master/Udemy%20GDCS%20Front-End%20Web%20Dev/Project_Pixel-Art-Maker)
-## Topics:
+### Topics:
 **HTML**
 
 **CSS**
