@@ -6,37 +6,37 @@
 
 * [code](https://github.com/vrastilondrej/Knowledge-base/tree/master/Udemy%20GDCS%20Front-End%20Web%20Dev/Project_Pixel-Art-Maker)
 ## Topics:
-* **HTML**
-* **CSS**
-* **JavaScript**
-    *  Data Types
-    *  Struings
-    *  Booleans
-    *  Null, Undefined, NaN
-    *  Else, IF
-    *  Logical Operators
-    *  Ternary Operator
-    *  Switch Statement
-    *  Loops (while, for)
-    *  Functions
-        *  Shadowing
-        *  Hoisting
-        *  Function Expressions
-        *  Patterns with Function Expressions
-    * Arrays
-        * Push, Pop, Splice
-        * forEach
-        * nested Arrays
-        * array.map
-    * Objects
-        * Methods
-        * bracket notation, dot notation
-* **jQuery**
-    * Selectors
-    * Traversing and filtering
-    * Toggle Class
-    * .css
-    * .html(), .text(), .value()
-    * .remove()
-    * .append(), .prepend(), .insertBefore(), .insertAfter()
-    * Functions
+**HTML**
+**CSS**
+**JavaScript**
+  *  Data Types
+  *  Struings
+  *  Booleans
+  *  Null, Undefined, NaN
+  *  Else, IF
+  *  Logical Operators
+  *  Ternary Operator
+  *  Switch Statement
+  *  Loops (while, for)
+  *  Functions
+      *  Shadowing
+      *  Hoisting
+      *  Function Expressions
+      *  Patterns with Function Expressions
+  * Arrays
+      * Push, Pop, Splice
+      * forEach
+      * nested Arrays
+      * array.map
+  * Objects
+      * Methods
+      * bracket notation, dot notation
+**jQuery**
+  * Selectors
+  * Traversing and filtering
+  * Toggle Class
+  * .css
+  * .html(), .text(), .value()
+  * .remove()
+  * .append(), .prepend(), .insertBefore(), .insertAfter()
+  * Functions
