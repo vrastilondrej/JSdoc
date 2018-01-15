@@ -1,9 +1,9 @@
 # Udacity FEWD Challenge
 ## Webpage: [link](https://blog.udacity.com/2017/09/announcing-60000-challenge-scholarships-udacity-google.html)
 ## Topics:
-* ##### HTML
-* ##### CSS
-* ##### JavaScript
+* **HTML**
+* **CSS**
+* **JavaScript**
  *  Data Types
  *  Struings
  *  Booleans
@@ -18,15 +18,15 @@
     *  Hoisting
     *  Function Expressions
     *  Patterns with Function Expressions
-* Arrays
+ * Arrays
     * Push, Pop, Splice
     * forEach
     * nested Arrays
     * array.map
-* Objects
+ * Objects
     * Methods
     * bracket notation, dot notation
-* ##### jQuery
+* **jQuery**
     * Selectors
     * Traversing and filtering
     * Toggle Class
