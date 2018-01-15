@@ -4,28 +4,28 @@
 * **HTML**
 * **CSS**
 * **JavaScript**
- *  Data Types
- *  Struings
- *  Booleans
- *  Null, Undefined, NaN
- *  Else, IF
- *  Logical Operators
- *  Ternary Operator
- *  Switch Statement
- *  Loops (while, for)
- *  Functions
-    *  Shadowing
-    *  Hoisting
-    *  Function Expressions
-    *  Patterns with Function Expressions
- * Arrays
-    * Push, Pop, Splice
-    * forEach
-    * nested Arrays
-    * array.map
- * Objects
-    * Methods
-    * bracket notation, dot notation
+    *  Data Types
+    *  Struings
+    *  Booleans
+    *  Null, Undefined, NaN
+    *  Else, IF
+    *  Logical Operators
+    *  Ternary Operator
+    *  Switch Statement
+    *  Loops (while, for)
+    *  Functions
+        *  Shadowing
+        *  Hoisting
+        *  Function Expressions
+        *  Patterns with Function Expressions
+    * Arrays
+        * Push, Pop, Splice
+        * forEach
+        * nested Arrays
+        * array.map
+    * Objects
+        * Methods
+        * bracket notation, dot notation
 * **jQuery**
     * Selectors
     * Traversing and filtering
